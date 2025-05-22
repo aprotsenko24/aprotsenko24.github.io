@@ -9,11 +9,7 @@ This is a scholarship website focused on **Gender Equity**, developed using **HT
 - CSS-styled content box and layout
 
 ### 🔗 View the Website
-[Click here to view the live site](https://aprotsenko24.github.io/Website_Project_)
-
-> Make sure your main HTML file is renamed to `index.html` and located at the root of the repository if you want GitHub Pages to serve it correctly.
-
----
+[Click here to view the live site](https://aprotsenko24.github.io)
 
 ### 📁 Folder Structure
 - `css.codes/` – CSS styles
